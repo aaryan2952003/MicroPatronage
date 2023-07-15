@@ -32,4 +32,5 @@ solidity
 thirdweb
 <h2>Try it out</h2>
 https://micropatronage.netlify.app/
+<br>
 https://github.com/aaryan2952003/MicroPatronage
