@@ -1,5 +1,19 @@
 # MicroPatronage
 
+<h2>Dependencies required after cloning....</h2>
+<h3>use below command in terminal after installing node_modules :- </h3><br>
+npx thirdweb@latest create --contract<br>
+npm install dotenv<br>
+npx thirdweb create --app<br>
+npm install react-router-dom<br>
+npm ren dev<br>
+import { useContract, useContractWrite } from "@thirdweb-dev/react"<br>
+npm create vite@latest ./ -- --template react<br>
+npm install -D tailwindcss<br>
+npx tailwindcss init<br>
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+
+
 <h2>Inspiration</h2>
 fundraising,Blockchain,web3,Supporting innovative ideas.
 
@@ -30,6 +44,7 @@ polygon-zkevm
 react
 solidity
 thirdweb
+
 <h2>Try it out</h2>
 https://micropatronage.netlify.app/
 <br>
