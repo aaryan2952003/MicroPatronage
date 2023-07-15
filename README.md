@@ -19,13 +19,13 @@ fundraising,Blockchain,web3,Supporting innovative ideas.
 This project used for raise fund for startups,innovative ideas,help by donating various community.
 
 <h2>How we built it</h2>
-Built it on Blockchain using polygon through Metamask wallet.
+Built it on Ethereum Blockchain using polygon through Metamask wallet.
 
 <h2>Challenges we ran into</h2>
 Connecting smart contract with frontend.
 
 <h2>Accomplishments that we're proud of</h2>
-we use combination of thirdweb,metamask,polygon and we also try polygon zkevm for transaction.
+we use combination of thirdweb,metamask,Ethereum,polygon and we also try polygon zkevm for transaction.
 
 <h2>What we learned</h2>
 we learned about how to integrate metamask,thirdweb along with blockchain.
