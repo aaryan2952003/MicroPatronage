@@ -11,8 +11,6 @@ import { useContract, useContractWrite } from "@thirdweb-dev/react"<br>
 npm create vite@latest ./ -- --template react<br>
 npm install -D tailwindcss<br>
 npx tailwindcss init<br>
-npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
-
 
 <h2>Inspiration</h2>
 fundraising,Blockchain,web3,Supporting innovative ideas.
