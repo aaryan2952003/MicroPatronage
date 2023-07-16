@@ -26,7 +26,7 @@ const CreateCampaign = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-
+//checked images//
     checkIfImage(form.image, async (exists) => {
       if(exists) {
         setIsLoading(true)
