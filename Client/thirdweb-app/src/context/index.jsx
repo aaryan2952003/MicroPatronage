@@ -8,7 +8,7 @@ const StateContext = createContext();
 export const StateContextProvider = ({ children }) => {
   const { contract } = useContract('0xF81a0AfFc432881AbA3aB02000e38f1fcBFAdb17');
   const { mutateAsync: createCampaign } = useContractWrite(contract, 'createCampaign');
-
+//To add metamask address//
   const address = useAddress();
   const connect = useMetamask();
 
