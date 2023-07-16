@@ -29,4 +29,5 @@ const Profile = () => {
   )
 }
 
+//profile page updated respocibity//
 export default Profile

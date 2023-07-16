@@ -25,5 +25,6 @@ const Home = () => {
     />
   )
 }
+//we added one more button for extra pages link
 
 export default Home
