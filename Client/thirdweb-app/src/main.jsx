@@ -19,3 +19,5 @@ root.render(
       </Router>
     </ThirdwebProvider> 
   )
+
+  //Browser Router enabled//
