@@ -11,5 +11,5 @@ const CustomButton = ({ btnType, title, handleClick, styles }) => {
     </button>
   )
 }
-
+//Custombutton adjusted to visible font
 export default CustomButton

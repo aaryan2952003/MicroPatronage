@@ -28,3 +28,4 @@ const App = () => {
 }
 
 export default App
+//style modified for profile//
